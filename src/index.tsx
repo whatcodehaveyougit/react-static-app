@@ -1,6 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
+import { ThemeProvider } from '@mui/material/styles';
+import theme from './mui-theme'
 
 // Your top level component
 import App from './App'
@@ -18,9 +20,11 @@ if (typeof document !== 'undefined') {
 
   const render = (Comp: Function) => {
     renderMethod(
-      <AppContainer>
-        <Comp />
-      </AppContainer>,
+      <ThemeProvider theme={theme}>
+        <AppContainer>
+          <Comp />
+        </AppContainer>
+      </ThemeProvider>,
       target
     )
   }

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
+// import MenuIcon from "@mui/icons-material/Menu";
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
 import logo1 from '../../logo.svg'
@@ -37,10 +37,9 @@ export default function Header() {
         <Box
             component="img"
             sx={{
-            height: 233,
             width: 350,
-            maxHeight: { xs: 233, md: 167 },
-            maxWidth: { xs: 350, md: 250 },
+            // maxHeight: { xs: 233, md: 167 },
+            // maxWidth: { xs: 350, md: 250 },
             }}
             alt="Pickbeam-logo."
             src={logo1}
@@ -59,7 +58,7 @@ export default function Header() {
               }
             }}
           >
-            <MenuIcon />
+            {/* <MenuIcon /> */}
           </IconButton>
 
           {/* The outside of the drawer */}
