@@ -1,0 +1,25 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.desktop-navigation a {
+    padding: 32px 0;
+    font-size: .875rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+
+.drawer-logo-container {
+    text-align: center;
+}
+
+.drawer-logo {
+    max-width: 200px;
+}
+
+.drawer-item {
+    display: flex;
+    justify-content: space-between;
+}
