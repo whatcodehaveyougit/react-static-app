@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="191" viewBox="0 0 197 191">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_335" data-name="Rectangle 335" width="197" height="191" transform="translate(317 2126)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_de_masques_3" data-name="Groupe de masques 3" transform="translate(-317 -2126)" clip-path="url(#clip-path)">
+    <g id="logo-pickbeam-Porteur-de-projet" transform="translate(305.779 2110.086)">
+      <path id="Tracé_4054" data-name="Tracé 4054" d="M61.369,78.959H11.508V206.914H139.463V157.041H61.369Z" fill="#60adff"/>
+      <rect id="Rectangle_336" data-name="Rectangle 336" width="49.861" height="49.861" transform="translate(82.344 86.206)" fill="#3c82ff"/>
+      <path id="Tracé_4055" data-name="Tracé 4055" d="M79.98,15.914V65.775h78.082v78.082h49.872V65.775h0V15.914Z" fill="#2c55ff"/>
+    </g>
+  </g>
+</svg>

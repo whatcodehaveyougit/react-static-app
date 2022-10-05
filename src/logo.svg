@@ -1,0 +1,16 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174.462" height="29.074" viewBox="0 0 174.462 29.074">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="174.462" height="29.074" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="5.815" height="5.815" transform="translate(11.63)" fill="#b2e1ff"/>
+  <rect id="Rectangle_10" data-name="Rectangle 10" width="5.815" height="5.815" transform="translate(0 23.259)" fill="#2c55ff"/>
+  <path id="Tracé_13" data-name="Tracé 13" d="M0,60.592v11.63H5.815V66.407H11.63V60.592Z" transform="translate(0 -54.777)" fill="#60adff"/>
+  <path id="Tracé_14" data-name="Tracé 14" d="M72.221,121.184v11.63H60.591V127h5.815v-5.815Z" transform="translate(-54.777 -109.554)" fill="#3c82ff"/>
+  <g id="Groupe_3" data-name="Groupe 3">
+    <g id="Groupe_2" data-name="Groupe 2" clip-path="url(#clip-path)">
+      <text id="PICKBEAM" transform="translate(28.52 18.498)" fill="#fff" font-size="15" font-family="Axiforma-SemiBold, Axiforma" font-weight="600"><tspan x="0" y="0" letter-spacing="0.48em">PI</tspan><tspan y="0" letter-spacing="0.479em">C</tspan><tspan y="0" letter-spacing="0.48em">K</tspan><tspan y="0" letter-spacing="0.479em">B</tspan><tspan y="0" letter-spacing="0.48em">EA</tspan><tspan y="0">M</tspan></text>
+    </g>
+  </g>
+</svg>
