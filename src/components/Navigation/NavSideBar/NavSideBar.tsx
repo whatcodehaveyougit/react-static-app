@@ -10,7 +10,7 @@ import Button from "@mui/material/Button";
 import { Typography } from "@mui/material";
 
 type NavSideBarProps = {
-    toggleDrawer: (open: boolean) => (event: any) => void,
+    toggleDrawer: (open: boolean) => (event: React.MouseEvent<HTMLButtonElement>) => void,
     open: boolean
 }
 

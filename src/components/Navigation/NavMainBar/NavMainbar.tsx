@@ -8,7 +8,7 @@ import { Typography } from "@mui/material";
 
 
 type NavMainBarProps = {
-    toggleDrawer: (open: boolean) => (event: any) => void,
+    toggleDrawer: (open: boolean) => (event: React.MouseEvent<HTMLButtonElement>) => void,
 }
 
 const NavMainBar = ( props: NavMainBarProps ) => {

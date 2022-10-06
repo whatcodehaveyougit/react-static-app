@@ -9,11 +9,8 @@ export default function Header() {
   
   const [open, setState] = useState<boolean>(false);
 
-  const toggleDrawer = (open: boolean) => (event: any) => {
-    if (
-      event.type === "keydown" &&
-      (event.key === "Tab" || event.key === "Shift")
-    ) {
+  const toggleDrawer = (open: boolean) => (event: React.MouseEvent<HTMLButtonElement>) => {
+    if ( event.type === "keydown" ) {
       return;
     }
     setState(open);
