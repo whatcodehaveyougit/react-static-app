@@ -20,7 +20,7 @@ const theme = createTheme({
             borderRadius: '28px',
             padding: "16px 24px",
             fontSize: "1rem",
-            fontWeight: "600px"
+            fontWeight: "600"
           },
         },
       },
