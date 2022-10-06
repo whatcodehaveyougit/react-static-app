@@ -36,7 +36,7 @@ const NavMainBar = ( props: NavMainBarProps ) => {
                 <MenuIcon />
             </Button>
             <Box
-            className="desktop-navigation"
+            className="mainbar-navigation"
             sx={{
                 display: {
                 xs: "none",

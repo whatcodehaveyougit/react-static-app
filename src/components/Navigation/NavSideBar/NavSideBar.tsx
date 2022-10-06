@@ -27,9 +27,10 @@ const NavSideBar = ( props: NavSideBarProps ) => {
                 // open={toggleDrawer(true)}
             >
                 <Box
-                sx={{
-                backgroundColor: 'primary.main',
-                }}
+                    sx={{
+                    backgroundColor: 'primary.main',
+                    height: '100%'
+                    }}
                 >
                     <Box className="drawer-logo-container">
                         <Box

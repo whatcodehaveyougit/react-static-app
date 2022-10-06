@@ -10,9 +10,6 @@ function App() {
   return (
     <Root>
       <Navigation />
-      <div>
-        Helllo
-      </div>
     </Root>
   )
 }
